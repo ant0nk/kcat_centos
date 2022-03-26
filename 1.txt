@@ -1,4 +1,0 @@
-MIME-Version: 1.0
-Content-Type: application/octet-stream; name="kcat8"
-Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="kcat8"
